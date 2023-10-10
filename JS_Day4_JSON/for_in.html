@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<script>
+  // For in loop using Object
+  var obj = {
+    "name": "Manikandan S",
+    
+      "address": "No 90, choolaimedu High Road Chennai",
+      "city": "Chennai",
+      "state": "TN",
+      "zip": "600094",
+      "email": "eventhiswillpassmk95@gmail.com",
+      "phone": "8681063655"
+    
+}
+
+for (var key in obj){
+    
+console.log(key + ":" , obj[key] )
+ }
+
+//  For Each loop
+
+ let arr = [5,10,15,20];
+ var multi =[];
+ var looparry=function(item,index){
+  multi.push(item*2);
+ }
+ arr.forEach(looparry);
+ console.log(multi);
+
+
+</script>
+<body>
+  
+</body>
+</html>

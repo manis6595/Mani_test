@@ -1,0 +1,44 @@
+{
+    "name": "Manikandan S",
+    "contact": {
+      "address": "No 90, choolaimedu High Road Chennai",
+      "city": "Chennai",
+      "state": "TN",
+      "zip": "600094",
+      "email": "eventhiswillpassmk95@gmail.com",
+      "phone": "8681063655"
+    },
+    "summary": "Major part of work spent on Data Analysis, ",
+    "education": [
+      {
+        "degree": "Diplamo Information technology",
+        "school": "MSPVL Polytechnic College",
+        "year": "2014"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teal Lead",
+        "company": "Hathway Cable & Datacom Ltd",
+        "dates": "2015 - Present",
+        "responsibilities": [
+          "Developed and maintained web applications using JavaScript, HTML, and CSS.",
+          "Collaborated with cross-functional teams to design and implement new features.",
+          "Resolved technical issues and bugs, improving overall software quality."
+        ]
+      }
+      
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML/CSS",
+      "Python",
+      "React",
+      "Node.js",
+      "Git",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "languages": ["English"]
+    
+  }
